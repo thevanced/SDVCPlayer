@@ -41,7 +41,7 @@ async def alive(client: Client, message: Message):
     uptime_sec = (current_time - START_TIME).total_seconds()
     uptime = await _human_time_duration(int(uptime_sec))
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/c7033c5a51b63811c4cdf.png",
+        photo=f"https://telegra.ph/file/bdc05d61db704b859a04e.jpg",
         caption=f"""**➮ ʜɪɪ ɪ ᴍ [{BOT_NAME}](https://t.me/{BOT_USERNAME})**
 
 ➮ **Sყʂƚҽɱ Wσɾƙιɳɠ Fιɳҽ**
@@ -57,10 +57,10 @@ async def alive(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "💫 ɢʀᴏᴜᴘ", url=f"https://t.me/SDBOTz"
+                        "💫 ɢʀᴏᴜᴘ", url=f"https://t.me/greatpersonxd"
                     ),
                     InlineKeyboardButton(
-                        "ᴄʜᴀɴɴᴇʟ ☑️", url=f"https://t.me/SDBOTs_inifinity"
+                        "ᴄʜᴀɴɴᴇʟ ☑️", url=f"https://t.me/greatpersonxd"
                     )
                 ]
             ]
