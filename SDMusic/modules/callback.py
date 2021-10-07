@@ -29,16 +29,16 @@ async def cbstart(_, query: CallbackQuery):
                          "Commands Help ❔", callback_data="cbcmds"
                     ),
                     InlineKeyboardButton(
-                        "Owner 🤴", url=f"https://t.me/Darkridersslk")
+                        "Owner 🤴", url=f"https://t.me/greatpersonxd")
                 ],[
                     InlineKeyboardButton(
-                        "Support Group 👥", url=f"https://t.me/SDBOTz"
+                        "Support Group 👥", url=f"https://t.me/greatpersonxd"
                     ),
                     InlineKeyboardButton(
-                        "SDBOTs News 🙋‍♂️", url=f"https://t.me/SDBOTs_inifinity")
+                        "SDBOTs News 🙋‍♂️", url=f"https://t.me/greatpersonxd")
                 ],[
                     InlineKeyboardButton(
-                        "Source Code 💾", url="https://github.com/Sadew451/SDVCPlayer"
+                        "Source Code 💾", url="https://t.me/greatpersonxd"
                     )
                 ]
             ]
