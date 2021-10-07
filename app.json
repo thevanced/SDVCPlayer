@@ -1,13 +1,13 @@
 {
-  "name": "SDMusic-Bot",
-  "logo": "https://telegra.ph/file/8eb4cf7ef38841037bdba.jpg",
+  "name": "Shubhanshu-Bot",
+  "logo": "https://github.com/thevanced/SDVCPlayer",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/Sadew451/SDVCPlayer",
+  "repository": "https://github.com/thevanced/SDVCPlayer",
   "stack": "container",
   "buildpacks": [
    {
-     "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+     "url": "https://github.com/thevanced/SDVCPlayer"
    }   
   ],        
   "env": {
