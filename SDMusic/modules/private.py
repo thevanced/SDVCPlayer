@@ -56,7 +56,7 @@ async def start_(client: Client, message: Message):
                          "All Commands", callback_data="cbcmds"
                     ),
                     InlineKeyboardButton(
-                        "Owner 🤴", url=f"https://t.me/Darkridersslk")
+                        "Owner 🤴", url=f"https://t.me/Shubhanshutya")
                 ],[
                     InlineKeyboardButton(
                         "Support Group 👥", url=f"https://t.me/{SUPPORT_GROUP}"
@@ -85,10 +85,10 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "Support Group 👥", url=f"https://t.me/SDBOTz"
+                        "Support Group 👥", url=f"https://t.me/greatpersonxd"
                     ),
                     InlineKeyboardButton(
-                        "SDBOTs News 🙋‍♂️", url=f"https://t.me/SDBOTs_inifinity"
+                        "SDBOTs News 🙋‍♂️", url=f"https://t.me/greatpersonxd"
                     )
                 ]
             ]
